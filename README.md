@@ -35,17 +35,22 @@ http://localhost:3000
 Screenshots of API requests tested using Postman:
 
 ### GET All Tasks
-![GET /tasks](screenshots/get-tasks.png)
+<img width="1783" height="895" alt="get-tasks" src="https://github.com/user-attachments/assets/ed334582-d333-4d44-b696-ff16203ba8ae" />
+
 
 ### POST Add Task
-![POST /tasks](screenshots/post-task.png)
+<img width="1647" height="873" alt="post-task" src="https://github.com/user-attachments/assets/9592674d-4590-4388-8453-587c8dc2445f" />
+
 
 ### PUT Update Task
-![PUT /tasks/:id](screenshots/put-task.png)
+<img width="1702" height="828" alt="put-task" src="https://github.com/user-attachments/assets/82c5d78c-5fa4-4214-980e-5dd85dc0a4a4" />
+
 
 ### PATCH Update Task
-![PATCH /tasks/:id](screenshots/patch-task.png)
+<img width="1700" height="844" alt="patch-task" src="https://github.com/user-attachments/assets/ba623168-7f3b-4eab-8d96-314fd810a48e" />
+
 
 ### DELETE Task
-![DELETE /tasks/:id](screenshots/delete-task.png)
+<img width="1716" height="846" alt="delete-task" src="https://github.com/user-attachments/assets/f7193dba-b61a-4fc2-a5c9-383702336e7c" />
+
 
