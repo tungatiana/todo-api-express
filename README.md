@@ -8,7 +8,7 @@ Supported operations:
 - GET /tasks → Get all tasks.
 - POST /tasks → Add a new task.
 - PUT /tasks/:id → Update a task completely.
-- PATCH /tasks/:id → Update part of a task
+- PATCH /tasks/:id → Update part of a task.
 - DELETE /tasks/:id → Delete a task.
 
 
