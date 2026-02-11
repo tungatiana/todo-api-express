@@ -1,7 +1,7 @@
 # To-Do API Project
 
 ## Project Description
-his is a simple RESTful API for managing tasks (To-Do list) built with Node.js and Express.  
+This is a simple RESTful API for managing tasks (To-Do list) built with Node.js and Express.  
 
 It allows users to create, read, update, and delete tasks.
 Supported operations:
