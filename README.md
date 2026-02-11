@@ -50,7 +50,7 @@ Screenshots of API requests tested using Postman:
 <img width="1700" height="844" alt="patch-task" src="https://github.com/user-attachments/assets/ba623168-7f3b-4eab-8d96-314fd810a48e" />
 
 
-### DELETE Task
+### DELETE Task.
 <img width="1716" height="846" alt="delete-task" src="https://github.com/user-attachments/assets/f7193dba-b61a-4fc2-a5c9-383702336e7c" />
 
 
