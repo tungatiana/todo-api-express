@@ -77,3 +77,9 @@ app.post('/tasks', (req, res) => {
     tasks.push(newTask);
     res.status(201).send("Task added");
 });
+
+app.get('/tasks/:id', (req, res) => {  
+  const id = req.params.id;
+  console.log(id);
+  res.json(tasks)
+});
