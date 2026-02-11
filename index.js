@@ -67,3 +67,13 @@ app.delete('/tasks/:id', (req, res) => {
 app.listen(3000, () => {
   console.log("Server running on port 3000");
 });
+
+app.get('/tasks', (req, res) => {
+  res.json(tasks);
+});
+
+app.post('/tasks', (req, res) => {
+  const newTask = req.body;
+    tasks.push(newTask);
+    res.status(201).send("Task added");
+});
