@@ -18,7 +18,7 @@ Supported operations:
 git clone https://github.com/tungatiana/todo-api-express.git
 
 2. Navigate into the project folder:
-cd todo-api-express
+cd todo-api-express/
 
 3. Install dependencies:
 npm install
