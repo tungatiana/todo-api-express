@@ -6,7 +6,7 @@ This is a simple RESTful API for managing tasks (To-Do list) built with Node.js 
 It allows users to create, read, update, and delete tasks.
 Supported operations:
 - GET /tasks → Get all tasks.
-- POST / tasks → Add a new task.
+- POST /tasks → Add a new task.
 - PUT / tasks/:id → Update a task completely.
 - PATCH / tasks/:id → Update part of a task.
 - DELETE / tasks/:id → Delete a task.
