@@ -1,4 +1,4 @@
-# Tlo-Do API Project
+# To-Do API Project
 
 ## Project Description
 This is a simple RESTful API for managing tasks (To-Do list) built with Node.js and Express.  
